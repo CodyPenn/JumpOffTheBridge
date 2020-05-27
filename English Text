@@ -1,0 +1,269 @@
+  888888 888     888 888b     d888 8888888b.        .d88888b.  8888888888 8888888888      88888888888 888    888 8888888888      888888b.   8888888b.  8888888 8888888b.   .d8888b.  8888888888 
+    "88b 888     888 8888b   d8888 888   Y88b      d88P" "Y88b 888        888                 888     888    888 888             888  "88b  888   Y88b   888   888  "Y88b d88P  Y88b 888        
+     888 888     888 88888b.d88888 888    888      888     888 888        888                 888     888    888 888             888  .88P  888    888   888   888    888 888    888 888        
+     888 888     888 888Y88888P888 888   d88P      888     888 8888888    8888888             888     8888888888 8888888         8888888K.  888   d88P   888   888    888 888        8888888    
+     888 888     888 888 Y888P 888 8888888P"       888     888 888        888                 888     888    888 888             888  "Y88b 8888888P"    888   888    888 888  88888 888        
+     888 888     888 888  Y8P  888 888             888     888 888        888                 888     888    888 888             888    888 888 T88b     888   888    888 888    888 888        
+     88P Y88b. .d88P 888   "   888 888             Y88b. .d88P 888        888                 888     888    888 888             888   d88P 888  T88b    888   888  .d88P Y88b  d88P 888        
+     888  "Y88888P"  888       888 888              "Y88888P"  888        888                 888     888    888 8888888888      8888888P"  888   T88b 8888888 8888888P"   "Y8888P88 8888888888 
+   .d88P                                                                                                                                                                                        
+ .d88P"                                                                                                                                                                                         
+888P"                                                                                                                                                                 
+(Game Link: https://store.steampowered.com/app/1057780/Jump_Off_The_Bridge/)
+(Game Patreon Link: https://www.patreon.com/codypenn)
+(ASCII ART MADE WITH: http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+[VERSION]: 1.J
+English Text Document
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+[DEV NOTE APRIL 27th]
+Patreon Supporters voted for the content focus of the month of May 2020 at the end of April, 
+which resulted in a four-way tie for the following categories:
+>Halloween Levels
+>Journey to the West Levels
+>Wearable Hats
+>Hardmode Time Wizard
+While some of the following categories may have little text now; 
+I've included the category headers in anticipation for next month's update.
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+[KEY]
+Level information will be located within parenthesis: (Giant Tree Level)
+Extra information to aid translations will be located within square brackets: [EI: This character is a bipedal rat with a crown]
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+ __  __ ______ _   _ _    _ 
+|  \/  |  ____| \ | | |  | |
+| \  / | |__  |  \| | |  | |
+| |\/| |  __| | . ` | |  | |
+| |  | | |____| |\  | |__| |
+|_|  |_|______|_| \_|\____/ 
+(Main Menu Text)
+ 
+(Main Menu)
+Begin
+Options
+Exit
+
+(Begin Menu)
+Easymode
+Hardmode
+
+(Options Menu)
+Options
+Audio
+Volume
+
+Video
+Fullscreen ON/OFF
+Particles LOW/MED/HIGH
+
+Keyboard
+Controls
+Left
+Right
+Up
+Down
+Jump
+Action
+Throw
+Restart
+Reset Binds
+Back
+None
+
+Gamepad
+Gamepad [EI: Game controller]
+Connected
+Gamepad Slot
+Description
+
+
+Arrow Keys + Enter
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+ ______           _______     ____  __  ____  _____  ______ 
+|  ____|   /\    / ____\ \   / /  \/  |/ __ \|  __ \|  ____|
+| |__     /  \  | (___  \ \_/ /| \  / | |  | | |  | | |__   
+|  __|   / /\ \  \___ \  \   / | |\/| | |  | | |  | |  __|  
+| |____ / ____ \ ____) |  | |  | |  | | |__| | |__| | |____ 
+|______/_/    \_\_____/   |_|  |_|  |_|\____/|_____/|______|
+(Easymode In-game Text)                                                          
+ 
+(Tutorial Levels)
+[Extra Information: This is a wooden sign that displays this text]
+
+Sign: The goal of this game is to jump off the bridge ->
+Sign: You can press [R] to Restart the level at any time.
+Sign: You can pickup items with: [Up Arrow Key] and throw them with: [Down Arrow Key]
+
+(Fetch-Quest Grandma Level)
+[Extra Information: In the time it takes you to find her dog, she's become older]
+Elderly Woman: Could you grab my dog for me?
+Elderlier Woman: Oh thank you!
+ 
+(Fetch-Quest Obese Troll Level)
+[EI: The Obese Troll requests you bring him some food, after recieving the food, he is more obese]
+Obese Troll: I am starving.
+Obeser Troll: Finally!
+[EI: If you burn the chicken on the fireballs, feeding it to the Troll will result in an upset stomach, causing him to spit fire in pain.]
+Obeser Troll with Upset Stomach: OH NOOOGGuggghhff!
+
+(Pirahna Level)
+[EI: Blonde Woman fishing off the edge of the bridge]
+Fisherwoman: Sometimes, you just gotta sit back, and watch time go by.
+
+(Explorer/Snake Level)
+[EI: The Explorer is a man that values rare animals.]
+Enthusiastic Snake Specialist: Over there is the most dangerous snake species known to this world. I've never been able to get a glimpse of it, let alone see it in the flesh. I'm concerned for our well being, but frozen in place by my fascination for this sighting, while simultaneously unable to process what exactly my next step should be in this very moment, or if I can even step to begin with.
+[EI: If you jump on the snake, the Explorer will become enraged]
+Angry Snake Specialist: HOW COULD YOU MERCILESSLY MURDER AN INNOCENT SPECIMEN OF SUCH RARITY.
+
+[EI: This is a small talking snake that intends to take over the world by becoming a mainstream celebrity]
+Snake: I am not only self aware, but I can also vocally communicate, it is in this ability that I can release my thoughts upon the masses and slowly begin to usurp modern thought by first becoming a public icon in the entertainment industry, once I have staked a claim within the industry, the plebians will begin to attribute my opinions as having value, while simultaneously being able to use my career as a platform for influencing culture and politics, despite having nothing but money and an acting career.
+
+(Big Tree Secret Room)
+[EI: This is a human-sized bipedal rat wearing a crown. This room will eventually house a basketball/Calvin-ball(Calvin & Hobbes Reference) parody game, that you can play to earn gold each playthrough.]
+Rat King: Apparently the dev is supposed to setup a court for [REDACTED]-ball. I have no idea why he'd set it up here though...
+
+(Cloud Secret Room)
+[EI: This character is a human with six arms holding various objects.]
+I am not god. Nor am I any kind of clairvoyant. My destiny is to stand up here. And speak these lines.
+
+(Starman gives you the Youth Pill)
+[EI: Players will not know this character until later versions, but he is essentially a man, with a yellow star for his head.]
+???: Hey man, shhhhhh just take this, quick... GO!
+
+(Cowwoman Secret Room)
+[EI: This is a normal woman, I'm just playing with gendering her occupation from "cowboy" to "cowwoman"]
+Cowwoman: It isn't my time to shine just yet, maybe next update. How'd you find this place anyways?
+
+(Infinite Bridge)
+[EI: This is essentailly just an old woman, but because of her pessimistic outlook on life, she's aged more by her worldview than her age itself.]
+Woman Aged By Worldview: Sometimes it never seems to end.
+
+(Oracle Slayer)
+[This is coming soon (May 31st), just leaving it here for my own reminder]
+
+(BIZCITY LEVELS)
+(Beginning to the 4 part Fetch Quest: Bizcity Edge)
+Thug 1: Sorry bud, I know you are eager to die for some    reason, but I'm hungry, if you get me a pizza, I'll let you pass.
+Thug 2: Sorry bucko, can't let you pass.. Unless you can acquire a bear plushie for me. Well... it ain't for me... IT'S FOR MY SISTER DUDE.
+Thug 3: Sorry mate, can't let you go past me while my throat is parched. If only I had a Mocha Latte!
+Thug 4: Sorry bruh, can't let you jump off this bridge. I need to quit smoking first. If only I had a nicotine patch to start!
+
+(BIZCITY SLUMS)
+[EI: The Drifter is just a vagabond who understands what is going on, on a Fourth Wall Breaking Scale. Here he directly mentions requiring an arbitrary task be completed, before the player is allowed to enter the boomerang levels.]
+Drifter: Come back to me once you've proven yourself to the Lords of Inevitable Game Walls.
+Drifter: Seems you've proven yourself. Sure I got a nicotine patch, but now you gotta prove yourself to me. Enter the mirror, I got three challenges for you.
+Drifter: Congratulations, here's your reward.
+
+[EI: Literally just a talking pig]
+Immovable Pig: I am beginning to suspect I am made of concrete.
+
+(SKIPPY'S ARCADE)
+[EI: Venerable Sensei of the Arcades]
+Arcade Sensei: You want this bear plushie? I'll tell you what, if you can turn off the broken pachinko machine for the repairman, I'll give it to you for free.
+Arcade Sensei: Good job! Take your reward!
+
+[EI: Blue Collar Worker trying to avoid doing more work]
+Repairman: It's too dangerous to try and turn off the pachinko machine, let's just wait until a storm knocks out the power, so I can just stand here and get paid.
+Repairman: You.. fixed it? WHY?!
+
+(AMIGOS PIZZA PLACE)
+Optimist: I ordered food four years ago, I know it'll be worth the wait.
+Pessimist: I ordered food four years ago, it won't be worth the wait.
+
+[EI: Chester just says nonsensical stuff, so feel free to just make anything that rhymes or sounds strange. His dialogue changes every room change]
+Chester: If we think, maybe we can find the brink."
+Chester: Sometimes the sum makes it an average time."
+Chester: If jumping is second nature, what is the first?
+Chester: If we maybe, we can, but only if we maybe can.
+
+[EI: Chef that has mastered Pizza, but can't seem to get any food served.]
+Pizza Master: Pizza? Sure? Just... it's in the Freezer. I got some mozzarella stuck in the security system... so... good luck. I can't help you. I'm busy.
+Pizza Master: How'd you... well I mean. Great job. I'm surprised you're still... yeah.
+
+(HIPO COFFEE HOUSE)
+Barista: A mocha latte? I haven't been able to find the coffee beans in the basement, so if you grab them for me, I'll hook you up?
+Barista: I don't know how you found these! But anyways, here is your Mocha Latte!
+
+Skeleton: *Grins impassively*
+
+Princess Xenia: Have you checked out the [REDACTED] yet? Try visiting after you [REDACTED]. [REDACTED]
+
+[EI: Literal Buffalo drinking coffee, a play on the English Simile "Like a bull in a china shop" used to denote "carelessness"]
+Coffee Fan: Don't worry about me, this ain't an antiques store.
+
+(SXY PUB)
+[EI: The TV in the bar changes based on whether the snake was killed. This will affect a level later in the game in a future version]
+TV: Popular animalian actor wins human vote, spearheading a new era of presidency for the United Area of Segments.
+TV: United Explorer's Union on the hunt for the human responsible for the inhumane death of a talking snake, a rare unbeforeseen anomaly.
+
+Violet: The Developer didn't want any music in the game without context. He added a radio tower in town, but I don't personally understand how the music reaches inside all of these buildings equally.
+Dale: I just like the music.
+
+Bartender: I'd suggest something to drink, but the developer hasn't programmed that yet.
+
+Lanie The Rejected Witch: I can't believe it... I love him, I'm sure of it... Stupid jerk! ... And his beautiful washboard abs! ... He said he didn't have time for me *sniffles aggressively*
+
+(FUN MALL)
+Retail Worker: Please distract yourself by changing colors in the changing rooms to the left.
+Retail Worker: Please ignore my complexion, my Neo-Aerobics class did wonders on my atrophied limbs.
+
+(OLD HOUSE)
+Nurse: We just built this retirement home, now we just gotta wait for the people to grow old and move in.
+
+Conspiracy Theorist: Something just doesn't seem right about this place.
+
+(OTHER)
+//Congratulations Screen Text:
+"Thank you for your support! See you soon!" 
+"Game Time:"
+"Deaths:"
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+ _    _          _____  _____  __  __  ____  _____  ______ 
+| |  | |   /\   |  __ \|  __ \|  \/  |/ __ \|  __ \|  ____|
+| |__| |  /  \  | |__) | |  | | \  / | |  | | |  | | |__   
+|  __  | / /\ \ |  _  /| |  | | |\/| | |  | | |  | |  __|  
+| |  | |/ ____ \| | \ \| |__| | |  | | |__| | |__| | |____ 
+|_|  |_/_/    \_\_|  \_\_____/|_|  |_|\____/|_____/|______|
+(Hardmode In-game Text)
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+ _    _          _      _      ______          ________ ______ _   _ 
+| |  | |   /\   | |    | |    / __ \ \        / /  ____|  ____| \ | |
+| |__| |  /  \  | |    | |   | |  | \ \  /\  / /| |__  | |__  |  \| |
+|  __  | / /\ \ | |    | |   | |  | |\ \/  \/ / |  __| |  __| | . ` |
+| |  | |/ ____ \| |____| |___| |__| | \  /\  /  | |____| |____| |\  |
+|_|  |_/_/    \_\______|______\____/   \/  \/   |______|______|_| \_|
+(Bonus Halloween Levels Text)
+[There is currently no text within the Halloween Levels]
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+      _  ____  _    _ _____  _   _ ________     __  _______ ____    _______ _    _ ______  __          ________  _____ _______ 
+     | |/ __ \| |  | |  __ \| \ | |  ____\ \   / / |__   __/ __ \  |__   __| |  | |  ____| \ \        / /  ____|/ ____|__   __|
+     | | |  | | |  | | |__) |  \| | |__   \ \_/ /     | | | |  | |    | |  | |__| | |__     \ \  /\  / /| |__  | (___    | |   
+ _   | | |  | | |  | |  _  /| . ` |  __|   \   /      | | | |  | |    | |  |  __  |  __|     \ \/  \/ / |  __|  \___ \   | |   
+| |__| | |__| | |__| | | \ \| |\  | |____   | |       | | | |__| |    | |  | |  | | |____     \  /\  /  | |____ ____) |  | |   
+ \____/ \____/ \____/|_|  \_\_| \_|______|  |_|       |_|  \____/     |_|  |_|  |_|______|     \/  \/   |______|_____/   |_|   
+(Bonus levels inspired by Wu Cheng'en's "Journey to the West")
+
+(Into the Mountain)
+[EI: Wooden Sign]
+Sign: Mountain of Flower and Fruit
+
+(Dragon King's Palace)
+[EI: Bipedal Dragon wearing a crown]
+Dragon King: Take whatever you want, just don't hurt me!
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+                                   
+                                                           
+ 
